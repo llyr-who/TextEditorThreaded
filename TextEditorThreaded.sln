@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextEditorThreaded", "TextEditorThreaded\TextEditorThreaded.vcxproj", "{45874679-ADE8-4B18-A36D-62D7274871B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45874679-ADE8-4B18-A36D-62D7274871B4}.Debug|x64.ActiveCfg = Debug|x64
+		{45874679-ADE8-4B18-A36D-62D7274871B4}.Debug|x64.Build.0 = Debug|x64
+		{45874679-ADE8-4B18-A36D-62D7274871B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{45874679-ADE8-4B18-A36D-62D7274871B4}.Debug|x86.Build.0 = Debug|Win32
+		{45874679-ADE8-4B18-A36D-62D7274871B4}.Release|x64.ActiveCfg = Release|x64
+		{45874679-ADE8-4B18-A36D-62D7274871B4}.Release|x64.Build.0 = Release|x64
+		{45874679-ADE8-4B18-A36D-62D7274871B4}.Release|x86.ActiveCfg = Release|Win32
+		{45874679-ADE8-4B18-A36D-62D7274871B4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548EEE18-98DA-4CFA-8DD5-5EEB3A170060}
+	EndGlobalSection
+EndGlobal
